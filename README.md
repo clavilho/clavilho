@@ -17,7 +17,7 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-vitor-clavilho/)](https://www.linkedin.com/in/joão-vitor-clavilho/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/JoaoClavilho)](https://t.me/drzbraz)
 [![Gmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jv.clavilho@hotmail.com)](mailto:jv.clavilho@hotmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Discord-c14438?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/leguminosos#4685)](https://discord.com/channels/leguminosos#4685)
+[![Discord Badge](https://img.shields.io/badge/-Discord-c14438?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/leguminosos#4685)](https://discord.com/leguminosos#4685)
 <!--
 **clavilho/clavilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
