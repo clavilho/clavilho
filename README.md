@@ -1,5 +1,22 @@
 ### Hi there 👋
+# :man_technologist: João Vitor Clavilho
 
+
+
+My name is João Vitor Clavilho dos Santos from Brazil ( 🇧🇷 ). I've been studing information systems  since 2018. I'm passionate about programming.
+
+In my free time I like to play online Games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
+
+:blue_heart: Techs: C#, JavaScript, Java, HTML/CSS...
+
+:books: Estudando JavaScript, TypeScript, Angular e Ionic... :heart: (Learning about JavaScript, TypeScript, Angular e Ionic..).
+
+Would you like to find me?
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/clavilho)](https://github.com/clavilho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-vitor-clavilho/)](https://www.linkedin.com/in/joão-vitor-clavilho/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/JoaoClavilho)](https://t.me/drzbraz)
+[![Gmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jv.clavilho@hotmail.com)](mailto:jv.clavilho@hotmail.com)
 <!--
 **clavilho/clavilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
