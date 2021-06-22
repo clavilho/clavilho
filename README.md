@@ -7,9 +7,9 @@ My name is João Vitor Clavilho dos Santos from Brazil ( 🇧🇷 ). I've been s
 
 In my free time I like to play online Games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
 
-:blue_heart: Techs: C#, JavaScript, Java, HTML/CSS...
+:blue_heart: Techs: TypeScript, JavaScript, Java, HTML/CSS, Angular...
 
-:books: Estudando JavaScript, TypeScript, Angular e Ionic... :heart: (Learning about JavaScript, TypeScript, Angular e Ionic..).
+:books: Estudando JavaScript, TypeScript, Angular... :heart:
 
 Would you like to find me?
 
