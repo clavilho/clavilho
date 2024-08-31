@@ -3,11 +3,11 @@
 
 
 
-My name is João Vitor Clavilho dos Santos from Brazil ( 🇧🇷 ). I've been studing information systems  since 2018. I'm passionate about programming.
+My name is João Vitor Clavilho dos Santos from Brazil ( 🇧🇷 ). I graduated in information systems in 2022. I have been working as a Back-end developer since 2021.
 
 In my free time I like to play online Games (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
 
-:blue_heart: Techs: TypeScript, JavaScript, Java, HTML/CSS, Angular, C#, .Net...
+:blue_heart: Techs: TypeScript, JavaScript, Angular, .Net...
 
 Would you like to find me?
 
